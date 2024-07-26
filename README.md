@@ -7,5 +7,7 @@ Meu nome é Guilherme Camilo
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### Você pode entrar em contato comigo 📫
+  
   guilherme.camilo25@escola.pr.gov.br
   
+![image](https://github.com/user-attachments/assets/1226db84-11bb-4a7a-a293-3bc986a2e6a5)
